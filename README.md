@@ -1,1 +1,1 @@
-# EliteAutoCliker
+# EliteAutoCliker LIB
