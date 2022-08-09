@@ -1,4 +1,4 @@
 > # EliteAutoCliker
-> This is the Repositary for storing/changing all *elite* versions.
+> This is the Repository for storing/changing all *elite* versions.
 >
 >Created by @Pixelarity
